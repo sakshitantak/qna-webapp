@@ -2,7 +2,7 @@
 name = "transformers-question-answering"
 version = "0.1.0"
 description = "Wikipedia based question answering system using huggingface transformers"
-authors = ["adimyth <mishraaditya6991@gmail.com>"]
+authors = ["sakshitantak <sakshi99tantak@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
